@@ -1,7 +1,5 @@
-node_modules
-dist
-.tmp
-.sass-cache
-bower_components
-mockup
-*.log.*
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
